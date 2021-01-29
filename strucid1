@@ -6,7 +6,7 @@ witch waz here kiss me btww <3
 Simple Strucid Hitbox expander
 ]]
 
-_G.Size = 50 --Change to any size 100> Or else you will lag
+_G.Size = 35 --Change to any size 100> Or else you will lag
 while true do
             for i,v in next, game:GetService('Players'):GetPlayers() do 
                 if v ~= plr then 
